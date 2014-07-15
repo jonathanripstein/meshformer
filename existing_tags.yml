@@ -1,0 +1,70 @@
+D015746: { list: false, note: "Abdominal Pain" }
+D000275: { list: false, note: "Adjustment disorders" }
+D006967: { list: false, note: "Allergy" }
+D016512: { list: false, note: "Ankle Injury" }
+D000855: { list: false, note: "Anorexia" }
+D001064: { list: false, note: "Appendicitis" }
+D063189: { list: false, note: "Assessment" }
+D001249: { list: false, note: "Asthma" }
+D001988: { list: true, note: "Bronchiolitis" }
+D007415: { list: false, note: "Bowel obstruction" }
+D002481: { list: false, note: "Cellulitis" }
+D002637: { list: false, note: "Chest pain" }
+D002657: { list: false, note: "Child Development" }
+D001924: { list: false, note: "Concussion" }
+D000312: { list: false, note: "Congenital adrenal hyperplasia" }
+D006330: { list: false, note: "Congenital Heart Defect" }
+D003231: { list: false, note: "Conjunctivitis" }
+D003248: { list: false, note: "Constipation" }
+D003288: { list: false, note: "Contusions" }
+D003371: { list: false, note: "Cough" }
+D003440: { list: true, note: "Croup" }
+D003550: { list: false, note: "Cystic Fibrosis" }
+D003681: { list: false, note: "Dehydration" }
+D003872: { list: false, note: "Dermatitis" }
+D016883: { list: false, note: "Diabetic ketoacidosis" }
+D003933: { list: false, note: "Diagnosis" }
+D004550: { list: false, note: "Elbow" }
+D004827: { list: false, note: "Epilepsy" }
+D004844: { list: false, note: "Epistaxis" }
+D005385: { list: false, note: "Finger" }
+D005334: { list: false, note: "Fever" }
+D050723: { list: false, note: "Fractures" }
+D005547: { list: false, note: "Foreign Bodies" }
+D005756: { list: false, note: "Gastritis" }
+D005759: { list: true, note: "Gastroenteritis" }
+D030342: { list: false, note: "Genetic Diseases, Inborn" }
+D006230: { list: false, note: "Hand injuries" }
+D006747: { list: false, note: "Hospital Communication Systems" }
+D006261: { list: false, note: "Headache" }
+D006417: { list: false, note: "Hematuria" }
+D006505: { list: false, note: "Hepatitis" }
+D016544: { list: false, note: "Human patient simulation" }
+D006973: { list: false, note: "Hypertension" }
+D017148: { list: false, note: "Intraosseous infusion" }
+D007443: { list: false, note: "Intussusception" }
+D007565: { list: false, note: "Jaundice" }
+D022125: { list: false, note: "Laceration" }
+D008581: { list: false, note: "Meningitis" }
+D008599: { list: false, note: "Menstruation Disturbances" }
+D018986: { list: false, note: "Motor Vehicle" }
+D009103: { list: false, note: "Multiple Sclerosis" }
+D007567: { list: false, note: "Neonatal Jaundice" }
+D009468: { list: false, note: "Neuromuscular Diseases" }
+D010033: { list: false, note: "Otitis Media" }
+D010036: { list: false, note: "Otolaryngology" }
+D016491: { list: false, note: "Peripheral Vascular Diseases" }
+D010612: { list: false, note: "Pharyngitis" }
+D011247: { list: false, note: "Pregnancy" }
+C566728: { list: false, note: "Radial head dislocation" }
+D012140: { list: false, note: "Respiratory Tract Diseases" }
+D012141: { list: false, note: "Respiratory Tract Infections" }
+D018805: { list: false, note: "Sepsis" }
+D013224: { list: false, note: "Status Asthmaticus" }
+D014069: { list: false, note: "Tonsillitis" }
+D012141: { list: false, note: "URTIs" }
+D014463: { list: false, note: "Ultrasound" }
+D014552: { list: false, note: "Urinary Tract Infections" }
+D014581: { list: false, note: "Urticaria" }
+D014839: { list: false, note: "Vomiting" }
+D014947: { list: false, note: "Wounds and Injuries" }
