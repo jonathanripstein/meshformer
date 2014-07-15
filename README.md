@@ -29,8 +29,7 @@ D005759: { list: true, note: "Gastroenteritis" }
 
 ---
 
-### Combine the above .txt and .yml to yield resulting_tags.yml 
-that is sorted and formatted and ready to drop into a site.yml or en.yml file
+#### Combine the above .txt and .yml to yield resulting_tags.yml AND separate resulting_en.yml file output that is sorted and formatted and ready to drop into a site.yml or en.yml file's respectively
 
 
 
