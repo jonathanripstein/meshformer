@@ -2,6 +2,31 @@
 
 ### Purpose to take new mesh tags and add them with alphabetical sorting to a list of old mesh tags 
 
+---
+
+## meshsort.rb
+
+Runs the parsing script that requires 
+
+##### new_tags.txt
+
+##### existing_tags.yml 
+
+to generate the output 
+
+##### resulting_en.yml
+
+##### resulting_tags.yml
+
+---
+
+Rules:
+
+##### Detect and eliminate duplicate MESH ID's always keeping the old ones.
+##### Wrap terms in double quotations so they tolerate internal symbols in their string values
+
+
+## Example Input
 
 ---
 
@@ -28,6 +53,8 @@ D005756: { list: false, note: "Gastritis" }
 D005759: { list: true, note: "Gastroenteritis" }
 
 ---
+
+## Example Output
 
 #### Combine the above .txt and .yml to yield resulting_tags.yml AND separate resulting_en.yml file output that is sorted and formatted and ready to drop into a site.yml and en.yml file's respectively.
 
@@ -83,13 +110,7 @@ There will be more formatting to come but this will get us started
 
 runs a demo app to get you started
 
----
 
-## meshsort.rb
-
-Runs the parsing script that requires new_tags.txt and existing_tags.yml to generate the output resulting_en.yml and resulting_tags.yml
-
----
 
 
 
