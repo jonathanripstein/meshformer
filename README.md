@@ -7,13 +7,13 @@
 
 ## new_tags.txt
 
-D004827, Epilepsy
+D004827, "Epilepsy"
 
-D004844, Epistaxis
+D004844, "Epistaxis"
 
-D005385, Finger
+D005385, "Finger"
 
-D005334, Fever
+D005334, "Fever"
 
 ---
 
