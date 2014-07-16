@@ -103,9 +103,9 @@ end
 # formatted like > D016512: { list: false, note: "Ankle Injury" }
 # Presence of new_tags.txt with each line exactly 
 # formatted like >  D000038, "Abscess" 
-# The matching of this pubnctuation is important as the script uses
-# the punctuation to extract the values.
-# Tnconsistent punctuation will generate unusable output
+# The matching of the above punctuation is important as the script
+# uses the punctuation to extract the values.
+# Inconsistent punctuation will generate unusable output
 
 # Use
 #############################################
