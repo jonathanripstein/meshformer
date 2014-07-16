@@ -16,32 +16,6 @@
 # Generate file en.yml based on resulting multidimensional array
 # Generate file tags.yml based on resulting multidimensional array
 
-# Depenencies
-#############################################
-# presence of existing_tags.yml with each line exactly 
-# formatted like > D016512: { list: false, note: "Ankle Injury" }
-# presence of new_tags.txt with each line exactly 
-# formatted like >  D000038, "Abscess" 
-# The matching of this pubnctuation is important as the script uses
-# the punctuation to extract the values.
-# inconsistent punctuation will generate unusable
-
-# Use
-#############################################
-# load existing_tags.yml with your current tags.yml from the kernel 
-# load new_tags.txt with yout proposed additions
-# from the terminal prompt run $ruby meshsort.rb then inspect the contents
-# of tags.yml and en.yml using sumbime text or other text app
-# cut and paste these into tags.yml and en.yml 
-# paying attention to the .yml format
-#############################################
-# To run script again
-# remember to clear the contents of tags.yml and en.yml before rerunning
-#############################################
-
-
-
-
 old_mesh_array = []
 new_mesh_array = []
 
@@ -121,3 +95,27 @@ File.open("tags.yml", "w") do |file|
   	}
 
 end
+
+
+# Depenencies
+#############################################
+# Presence of existing_tags.yml with each line exactly 
+# formatted like > D016512: { list: false, note: "Ankle Injury" }
+# Presence of new_tags.txt with each line exactly 
+# formatted like >  D000038, "Abscess" 
+# The matching of this pubnctuation is important as the script uses
+# the punctuation to extract the values.
+# Tnconsistent punctuation will generate unusable output
+
+# Use
+#############################################
+# Load existing_tags.yml with your current tags.yml from the kernel 
+# Load new_tags.txt with yout proposed additions
+# From the terminal prompt run $ruby meshsort.rb then inspect the contents
+# of tags.yml and en.yml using sumbime text or other text app
+# Cut and paste these into tags.yml and en.yml 
+# paying attention to the .yml format
+# To run script again remember to clear the contents 
+# of tags.yml and en.yml
+#############################################
+
