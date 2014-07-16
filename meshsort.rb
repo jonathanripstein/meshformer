@@ -53,7 +53,8 @@ File.open("en.yml", "w") do |file|
     new_mesh_array = new_mesh_array.uniq { |e| e[0] }    
   end
 
-  	# purge vales in new array that are already present in old array
+  # purge the subarrays in new multidimensional array that are already 
+  # present in old array to favor the old over the new
 	new_mesh_array_removable = new_mesh_array.select {|new_item|  
 			old_mesh_array.detect { |old_item|
 				new_item[0] == old_item[0]
@@ -61,38 +62,36 @@ File.open("en.yml", "w") do |file|
 	}
 	new_mesh_array = new_mesh_array - new_mesh_array_removable
 
-	# combine the old with the new
-  	combined_mesh_array = old_mesh_array + new_mesh_array
+  # combine the old with the new
+	combined_mesh_array = old_mesh_array + new_mesh_array
 
-  	# sort the resulting multidimensional array based on name not ID
-  	# add the "@"" so that the variable is available outside of this block
-  	@combined_mesh_array = combined_mesh_array.sort_by { |e| e[1] }
+	# sort the resulting multidimensional array based on name not ID
+	# add the "@" so that the variable is available outside of this block
+	@combined_mesh_array = combined_mesh_array.sort_by { |e| e[1] }
 
-
-  	@combined_mesh_array.each {|subarray|
-		file.write(subarray[0])
-		file.write(": ")
-		file.write('"') 
-		file.write(subarray[1])
-		file.write('"')   	
-		file.write("\n")   		
-  	}
+  # replicates format like >  D016512: "Ankle Injury"
+	@combined_mesh_array.each {|subarray|
+	file.write(subarray[0])
+	file.write(': "') 
+	file.write(subarray[1])
+	file.write('"')   	
+	file.write("\n")   		
+	}
 
 end
 
 File.open("tags.yml", "w") do |file|
 
-	# seek to replicate: D016512: { list: false, note: "Ankle Injury" }
-
-  	@combined_mesh_array.each {|subarray|
-		file.write(subarray[0])
-		file.write(': { list: ') 
-		file.write(subarray[2])
-		file.write(', note: "') 
-		file.write(subarray[1])
-		file.write('" }')   	
-		file.write("\n")   		
-  	}
+	# replicates format like >  D016512: { list: false, note: "Ankle Injury" }
+	@combined_mesh_array.each {|subarray|
+	file.write(subarray[0])
+	file.write(': { list: ') 
+	file.write(subarray[2])
+	file.write(', note: "') 
+	file.write(subarray[1])
+	file.write('" }')   	
+	file.write("\n")   		
+	}
 
 end
 
