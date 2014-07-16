@@ -1,0 +1,357 @@
+D015746: { list: false, note: "Abdominal Pain" }
+D000026: { list: false, note: "Abortion, Habitual" }
+D000022: { list: false, note: "Abortion, Spontaneous" }
+D000038: { list: false, note: "Abscess" }
+D056586: { list: false, note: "Acute Chest Syndrome" }
+D000208: { list: false, note: "Acute Disease" }
+D058186: { list: false, note: "Acute Kidney Injury" }
+D055371: { list: false, note: "Acute Lung Injury" }
+D059787: { list: false, note: "Acute Pain" }
+D000275: { list: false, note: "Adjustment disorders" }
+D000374: { list: false, note: "Aggression" }
+D000402: { list: false, note: "Airway Obstruction" }
+D017109: { list: false, note: "Akathisia, Drug-Induced" }
+C567078: { list: false, note: "Allergic Rhinitis" }
+D006967: { list: false, note: "Allergy" }
+D000671: { list: false, note: "Amputation" }
+D000707: { list: false, note: "Anaphylaxis" }
+D000740: { list: false, note: "Anemia" }
+D018798: { list: false, note: "Anemia, Iron-Deficiency" }
+D000755: { list: false, note: "Anemia, Sickle Cell" }
+D000758: { list: false, note: "Anesthesia" }
+D016512: { list: false, note: "Ankle Injury" }
+D000855: { list: false, note: "Anorexia" }
+D000858: { list: false, note: "Anovulation" }
+D000860: { list: false, note: "Anoxia" }
+D001064: { list: false, note: "Appendicitis" }
+D001168: { list: false, note: "Arthritis" }
+D001172: { list: false, note: "Arthritis, Rheumatoid" }
+D063189: { list: false, note: "Assessment" }
+D001249: { list: false, note: "Asthma" }
+D001250: { list: false, note: "Asthma, Exercise-Induced" }
+D001265: { list: false, note: "Athletic Injuries" }
+D001289: { list: false, note: "Attention Deficit Disorder with Hyperactivity" }
+D016470: { list: false, note: "Bacteremia" }
+D001424: { list: false, note: "Bacterial Infections" }
+D001437: { list: false, note: "Bacteriuria" }
+D001733: { list: false, note: "Bites and Stings" }
+D001766: { list: false, note: "Blindness" }
+D016063: { list: false, note: "Blood Loss, Surgical" }
+D001803: { list: false, note: "Blood Transfusion" }
+D001847: { list: false, note: "Bone Diseases" }
+D001886: { list: false, note: "Bordetella pertussis" }
+D001906: { list: false, note: "Botulism" }
+D007415: { list: false, note: "Bowel obstruction" }
+D001927: { list: false, note: "Brain Diseases" }
+D001929: { list: false, note: "Brain Edema" }
+D001930: { list: false, note: "Brain Injuries" }
+D001943: { list: false, note: "Breast Neoplasms" }
+D016535: { list: false, note: "Bronchial Hyperreactivity" }
+D001987: { list: false, note: "Bronchiectasis" }
+D001988: { list: true, note: "Bronchiolitis" }
+D001990: { list: false, note: "Bronchiolitis, Viral" }
+D001991: { list: false, note: "Bronchitis" }
+D016084: { list: false, note: "Bronchoconstriction" }
+D002006: { list: false, note: "Brucellosis" }
+D019121: { list: false, note: "Burkholderia Infections" }
+D042602: { list: false, note: "Burkholderia cepacia complex" }
+D002056: { list: false, note: "Burns" }
+D002312: { list: false, note: "Cardiomyopathy, Hypertrophic" }
+D002481: { list: false, note: "Cellulitis" }
+D002543: { list: false, note: "Cerebral Hemorrhage" }
+D002559: { list: false, note: "Cerebrospinal Fluid Rhinorrhea" }
+D002571: { list: false, note: "Cerumen" }
+D002585: { list: false, note: "Cesarean Section" }
+D002637: { list: false, note: "Chest pain" }
+D002644: { list: false, note: "Chickenpox" }
+D002657: { list: false, note: "Child Development" }
+D015362: { list: false, note: "Child Nutrition Disorders" }
+D023341: { list: false, note: "Chills" }
+D002771: { list: false, note: "Cholera" }
+D002908: { list: false, note: "Chronic Disease" }
+D059350: { list: false, note: "Chronic Pain" }
+D015179: { list: false, note: "Colorectal Neoplasms" }
+D003139: { list: false, note: "Common Cold" }
+D017714: { list: false, note: "Community-Acquired Infections" }
+D020918: { list: false, note: "Complex Regional Pain Syndromes" }
+D001924: { list: false, note: "Concussion" }
+D006330: { list: false, note: "Congenital Heart Defect" }
+D000312: { list: false, note: "Congenital adrenal hyperplasia" }
+D003231: { list: false, note: "Conjunctivitis" }
+D003234: { list: false, note: "Conjunctivitis, Bacterial" }
+D003248: { list: false, note: "Constipation" }
+D003267: { list: false, note: "Contraception" }
+D003288: { list: false, note: "Contusions" }
+D003371: { list: false, note: "Cough" }
+D016638: { list: false, note: "Critical Illness" }
+D003440: { list: true, note: "Croup" }
+D003550: { list: false, note: "Cystic Fibrosis" }
+D003638: { list: false, note: "Deafness" }
+D019299: { list: false, note: "Decompression, Surgical" }
+D003681: { list: false, note: "Dehydration" }
+D003872: { list: false, note: "Dermatitis" }
+D003876: { list: false, note: "Dermatitis, Atopic" }
+D002658: { list: false, note: "Developmental Disabilities" }
+D003920: { list: false, note: "Diabetes Mellitus" }
+D003929: { list: false, note: "Diabetic Neuropathies" }
+D016883: { list: false, note: "Diabetic ketoacidosis" }
+D003933: { list: false, note: "Diagnosis" }
+D003963: { list: false, note: "Diaper Rash" }
+D003967: { list: false, note: "Diarrhea" }
+D003968: { list: false, note: "Diarrhea, Infantile" }
+D004204: { list: false, note: "Dislocations" }
+D004404: { list: false, note: "Dysentery, Amebic" }
+D004405: { list: false, note: "Dysentery, Bacillary" }
+D004417: { list: false, note: "Dyspnea" }
+D004421: { list: false, note: "Dystonia" }
+D004426: { list: false, note: "Ear Deformities, Acquired" }
+D004427: { list: false, note: "Ear Diseases" }
+D004433: { list: false, note: "Earache" }
+D004485: { list: false, note: "Eczema" }
+D004550: { list: false, note: "Elbow" }
+D004605: { list: false, note: "Elephantiasis, Filarial" }
+D019353: { list: false, note: "Endemic Diseases" }
+D004775: { list: false, note: "Enuresis" }
+D004828: { list: false, note: "Epilepsies, Partial" }
+D004827: { list: false, note: "Epilepsy" }
+D004832: { list: false, note: "Epilepsy, Absence" }
+D004829: { list: false, note: "Epilepsy, Generalized" }
+D004830: { list: false, note: "Epilepsy, Tonic-Clonic" }
+C535500: { list: false, note: "Epileptic encephalopathy, Lennox-Gastaut type" }
+D004844: { list: false, note: "Epistaxis" }
+D004886: { list: false, note: "Erysipelas" }
+D005076: { list: false, note: "Exanthema" }
+D010188: { list: false, note: "Exocrine Pancreatic Insufficiency" }
+D015821: { list: false, note: "Eye Infections, Fungal" }
+D005151: { list: false, note: "Facial Injuries" }
+D005313: { list: false, note: "Fetal Death" }
+D005334: { list: false, note: "Fever" }
+D005385: { list: false, note: "Finger" }
+D005383: { list: false, note: "Finger Injuries" }
+D005401: { list: false, note: "Fissure in Ano" }
+D005533: { list: false, note: "Foot Dermatoses" }
+D005547: { list: false, note: "Foreign Bodies" }
+D050723: { list: false, note: "Fractures" }
+D005599: { list: false, note: "Fractures, Ununited" }
+D005756: { list: false, note: "Gastritis" }
+D005759: { list: true, note: "Gastroenteritis" }
+D005764: { list: false, note: "Gastroesophageal Reflux" }
+D005767: { list: false, note: "Gastrointestinal Diseases" }
+D030342: { list: false, note: "Genetic Diseases, Inborn" }
+D005831: { list: false, note: "Genital Diseases, Female" }
+D005832: { list: false, note: "Genital Diseases, Male" }
+D005873: { list: false, note: "Giardiasis" }
+D020275: { list: false, note: "Guillain-Barre Syndrome" }
+D006227: { list: false, note: "Hand Deformities, Acquired" }
+D006230: { list: false, note: "Hand injuries" }
+D016489: { list: false, note: "Head Injuries, Closed" }
+D006261: { list: false, note: "Headache" }
+D020773: { list: false, note: "Headache Disorders" }
+D034381: { list: false, note: "Hearing Loss" }
+D006319: { list: false, note: "Hearing Loss, Sensorineural" }
+D003639: { list: false, note: "Hearing Loss, Sudden" }
+D006321: { list: false, note: "Heart" }
+D006323: { list: false, note: "Heart Arrest" }
+D006333: { list: false, note: "Heart Failure" }
+D006406: { list: false, note: "Hematoma" }
+D006417: { list: false, note: "Hematuria" }
+D006463: { list: false, note: "Hemolytic-Uremic Syndrome" }
+D006467: { list: false, note: "Hemophilia A" }
+D006470: { list: false, note: "Hemorrhage" }
+D006484: { list: false, note: "Hemorrhoids" }
+D006505: { list: false, note: "Hepatitis" }
+D006712: { list: false, note: "Homocystinuria" }
+D006747: { list: false, note: "Hospital Communication Systems" }
+D016544: { list: false, note: "Human patient simulation" }
+D006943: { list: false, note: "Hyperglycemia" }
+D006973: { list: false, note: "Hypertension" }
+D006984: { list: false, note: "Hypertrophy" }
+D033461: { list: false, note: "Hyperuricemia" }
+D006985: { list: false, note: "Hyperventilation" }
+D007010: { list: false, note: "Hyponatremia" }
+D007036: { list: false, note: "Hypothermia, Induced" }
+D007169: { list: false, note: "Impetigo" }
+D007230: { list: false, note: "Infant, Low Birth Weight" }
+D007239: { list: false, note: "Infection" }
+D007244: { list: false, note: "Infectious Mononucleosis" }
+D053118: { list: false, note: "Influenza A Virus, H1N1 Subtype" }
+D009980: { list: false, note: "Influenza A virus" }
+D007251: { list: false, note: "Influenza, Human" }
+D008607: { list: false, note: "Intellectual Disability" }
+D019586: { list: false, note: "Intracranial Hypertension" }
+D007427: { list: false, note: "Intracranial Pressure" }
+D017148: { list: false, note: "Intraosseous infusion" }
+D007443: { list: false, note: "Intussusception" }
+D043183: { list: false, note: "Irritable Bowel Syndrome" }
+D007565: { list: false, note: "Jaundice" }
+D007634: { list: false, note: "Keratitis" }
+D007674: { list: false, note: "Kidney Diseases" }
+D022125: { list: false, note: "Laceration" }
+D007813: { list: false, note: "Laparotomy" }
+D007827: { list: false, note: "Laryngitis" }
+D007871: { list: false, note: "Leg Ulcer" }
+D007922: { list: false, note: "Leptospirosis" }
+D008171: { list: false, note: "Lung Diseases" }
+D008181: { list: false, note: "Lupus Nephritis" }
+D008288: { list: false, note: "Malaria" }
+D016779: { list: false, note: "Malaria, Cerebral" }
+D008413: { list: false, note: "Mastitis" }
+D008457: { list: false, note: "Measles" }
+D008581: { list: false, note: "Meningitis" }
+D016920: { list: false, note: "Meningitis, Bacterial" }
+D008589: { list: false, note: "Meningococcal Infections" }
+D008595: { list: false, note: "Menorrhagia" }
+D008599: { list: false, note: "Menstruation Disturbances" }
+D055624: { list: false, note: "Methicillin-Resistant Staphylococcus aureus" }
+D008976: { list: false, note: "Molluscum Contagiosum" }
+D018986: { list: false, note: "Motor Vehicle" }
+D009080: { list: false, note: "Mucocutaneous Lymph Node Syndrome" }
+D009103: { list: false, note: "Multiple Sclerosis" }
+D009107: { list: false, note: "Mumps" }
+D009120: { list: false, note: "Muscle Cramp" }
+D009135: { list: false, note: "Muscular Diseases" }
+D020388: { list: false, note: "Muscular Dystrophy, Duchenne" }
+D059352: { list: false, note: "Musculoskeletal Pain" }
+D063806: { list: false, note: "Myalgia" }
+D009157: { list: false, note: "Myasthenia Gravis" }
+D009169: { list: false, note: "Mycobacterium tuberculosis" }
+D009177: { list: false, note: "Mycoplasma pneumoniae" }
+D009205: { list: false, note: "Myocarditis" }
+D009263: { list: false, note: "Nails, Ingrown" }
+D015508: { list: false, note: "Nasal Obstruction" }
+D007567: { list: false, note: "Neonatal Jaundice" }
+D009369: { list: false, note: "Neoplasms" }
+D009404: { list: false, note: "Nephrotic Syndrome" }
+C536404: { list: false, note: "Nephrotic syndrome, idiopathic, steroid-resistant" }
+D009437: { list: false, note: "Neuralgia" }
+D020019: { list: false, note: "Neurocysticercosis" }
+D009468: { list: false, note: "Neuromuscular Diseases" }
+D009755: { list: false, note: "Night Blindness" }
+D053206: { list: false, note: "Nocturnal Enuresis" }
+D007752: { list: false, note: "Obstetric Labor, Premature" }
+D014009: { list: false, note: "Onychomycosis" }
+D009909: { list: false, note: "Oral Health" }
+D010033: { list: false, note: "Otitis Media" }
+D010034: { list: false, note: "Otitis Media with Effusion" }
+D010035: { list: false, note: "Otitis Media, Suppurative" }
+D010036: { list: false, note: "Otolaryngology" }
+D010146: { list: false, note: "Pain" }
+D010149: { list: false, note: "Pain, Postoperative" }
+D018512: { list: false, note: "Parasitemia" }
+D010284: { list: false, note: "Paratyphoid Fever" }
+D031222: { list: false, note: "Patellar Dislocation" }
+D046788: { list: false, note: "Patellofemoral Pain Syndrome" }
+D010374: { list: false, note: "Pediculus" }
+D010391: { list: false, note: "Pemphigoid, Bullous" }
+D016491: { list: false, note: "Peripheral Vascular Diseases" }
+D010530: { list: false, note: "Peritoneal Dialysis" }
+D010554: { list: false, note: "Personality Disorders" }
+D010591: { list: false, note: "Phantom Limb" }
+D010612: { list: false, note: "Pharyngitis" }
+D010850: { list: false, note: "Picornaviridae Infections" }
+D011014: { list: false, note: "Pneumonia" }
+D018410: { list: false, note: "Pneumonia, Bacterial" }
+D011024: { list: false, note: "Pneumonia, Viral" }
+D011225: { list: false, note: "Pre-Eclampsia" }
+D011247: { list: false, note: "Pregnancy" }
+D011248: { list: false, note: "Pregnancy Complications" }
+D011250: { list: false, note: "Pregnancy Complications, Hematologic" }
+D011272: { list: false, note: "Pregnancy, Multiple" }
+D047928: { list: false, note: "Premature Birth" }
+D011297: { list: false, note: "Prenatal Exposure Delayed Effects" }
+D003668: { list: false, note: "Pressure Ulcer" }
+D011507: { list: false, note: "Proteinuria" }
+D011552: { list: false, note: "Pseudomonas Infections" }
+D011565: { list: false, note: "Psoriasis" }
+D011595: { list: false, note: "Psychomotor Agitation" }
+D011618: { list: false, note: "Psychotic Disorders" }
+D001261: { list: false, note: "Pulmonary Atelectasis" }
+D029424: { list: false, note: "Pulmonary Disease, Chronic Obstructive" }
+D011655: { list: false, note: "Pulmonary Embolism" }
+C536282: { list: false, note: "Pulmonary arterial hypertension" }
+D011695: { list: false, note: "Purpura, Schoenlein-Henoch" }
+D011697: { list: false, note: "Purpura, Thrombotic Thrombocytopenic" }
+D011704: { list: false, note: "Pyelonephritis" }
+C566728: { list: false, note: "Radial head dislocation" }
+D011885: { list: false, note: "Radius Fractures" }
+D012019: { list: false, note: "Reflex Sympathetic Dystrophy" }
+D006435: { list: false, note: "Renal Dialysis" }
+D051437: { list: false, note: "Renal Insufficiency" }
+D012120: { list: false, note: "Respiration Disorders" }
+D012121: { list: false, note: "Respiration, Artificial" }
+D012128: { list: false, note: "Respiratory Distress Syndrome, Adult" }
+D012127: { list: false, note: "Respiratory Distress Syndrome, Newborn" }
+D012131: { list: false, note: "Respiratory Insufficiency" }
+D018357: { list: false, note: "Respiratory Syncytial Virus Infections" }
+D012140: { list: false, note: "Respiratory Tract Diseases" }
+D012141: { list: false, note: "Respiratory Tract Infections" }
+D012213: { list: false, note: "Rheumatic Fever" }
+D012214: { list: false, note: "Rheumatic Heart Disease" }
+D012220: { list: false, note: "Rhinitis" }
+D012221: { list: false, note: "Rhinitis, Allergic, Perennial" }
+D006255: { list: false, note: "Rhinitis, Allergic, Seasonal" }
+D012229: { list: false, note: "Rhinovirus" }
+D012480: { list: false, note: "Salmonella Infections" }
+D012532: { list: false, note: "Scabies" }
+D012555: { list: false, note: "Schistosomiasis mansoni" }
+D012559: { list: false, note: "Schizophrenia" }
+D012561: { list: false, note: "Schizophrenia, Childhood" }
+D012640: { list: false, note: "Seizures" }
+D018805: { list: false, note: "Sepsis" }
+D019595: { list: false, note: "Severe Dengue" }
+D012760: { list: false, note: "Shigella" }
+D012769: { list: false, note: "Shock" }
+D012772: { list: false, note: "Shock, Septic" }
+D012798: { list: false, note: "Sialorrhea" }
+D012852: { list: false, note: "Sinusitis" }
+D012867: { list: false, note: "Skin" }
+D012878: { list: false, note: "Skin Neoplasms" }
+D012883: { list: false, note: "Skin Ulcer" }
+D020205: { list: false, note: "Skull Fracture, Basilar" }
+D020181: { list: false, note: "Sleep Apnea, Obstructive" }
+D013035: { list: false, note: "Spasm" }
+D013036: { list: false, note: "Spasms, Infantile" }
+D013119: { list: false, note: "Spinal Cord Injuries" }
+D013180: { list: false, note: "Sprains and Strains" }
+D013203: { list: false, note: "Staphylococcal Infections" }
+D013207: { list: false, note: "Staphylococcal Skin Infections" }
+D013211: { list: false, note: "Staphylococcus aureus" }
+D013224: { list: false, note: "Status Asthmaticus" }
+D013226: { list: false, note: "Status Epilepticus" }
+D013283: { list: false, note: "Stomatitis, Herpetic" }
+D013290: { list: false, note: "Streptococcal Infections" }
+D020521: { list: false, note: "Stroke" }
+D013529: { list: false, note: "Surgical Wound Dehiscence" }
+D013530: { list: false, note: "Surgical Wound Infection" }
+D013617: { list: false, note: "Tachycardia, Supraventricular" }
+D013708: { list: false, note: "Tendon Injuries" }
+D013742: { list: false, note: "Tetanus" }
+D013908: { list: false, note: "Thoracotomy" }
+D013981: { list: false, note: "Tic Disorders" }
+D014006: { list: false, note: "Tinea Capitis" }
+D014012: { list: false, note: "Tinnitus" }
+D014069: { list: false, note: "Tonsillitis" }
+D014141: { list: false, note: "Trachoma" }
+D014376: { list: false, note: "Tuberculosis" }
+D014390: { list: false, note: "Tuberculosis, Meningeal" }
+D014397: { list: false, note: "Tuberculosis, Pulmonary" }
+D018058: { list: false, note: "Tympanic Membrane Perforation" }
+D014435: { list: false, note: "Typhoid Fever" }
+D014458: { list: false, note: "Ulna Fractures" }
+D014463: { list: false, note: "Ultrasound" }
+D014552: { list: false, note: "Urinary Tract Infections" }
+D014581: { list: false, note: "Urticaria" }
+D014647: { list: false, note: "Varicose Ulcer" }
+D054556: { list: false, note: "Venous Thromboembolism" }
+D020246: { list: false, note: "Venous Thrombosis" }
+D014717: { list: false, note: "Vertigo" }
+D014718: { list: false, note: "Vesico-Ureteral Reflux" }
+D014777: { list: false, note: "Virus Diseases" }
+D014802: { list: false, note: "Vitamin A Deficiency" }
+D014808: { list: false, note: "Vitamin D Deficiency" }
+D014813: { list: false, note: "Vitamin K Deficiency" }
+D014839: { list: false, note: "Vomiting" }
+D007724: { list: false, note: "Vulvar Lichen Sclerosus" }
+D014917: { list: false, note: "Whooping Cough" }
+D014946: { list: false, note: "Wound Infection" }
+D014947: { list: false, note: "Wounds and Injuries" }

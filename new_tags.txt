@@ -1,4 +1,7 @@
 D000038, "Abscess"
+D000038, "Abscess2"
+D000038, "Abscess3"
+D000275, "Adjustment disorders NOT IN ARRAY"
 D004832, "Epilepsy, Absence"
 D004426, "Ear Deformities, Acquired"
 D006227, "Hand Deformities, Acquired"
