@@ -118,8 +118,17 @@ There will be more formatting to come but this will get us started
 
 runs a demo app to get you started
 
+## Stop sending your output upstream 
 
+git update-index --assume-unchanged en.yml
 
+git update-index --assume-unchanged tags.yml
+
+## Reverses the stop to sending your output upstream 
+
+git update-index --no-assume-unchanged en.yml
+
+git update-index --no-assume-unchanged tags.yml
 
 
 
