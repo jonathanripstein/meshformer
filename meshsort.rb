@@ -1,6 +1,46 @@
-#Meshsort script
+# MeSHsort script
+# Greg Van de Mosselaer
+# July 16, 2014
 
 #!/usr/bin/env ruby
+
+# This script performs the folloing actions
+#############################################
+# Make multidimensional array of old list
+# --- Throw out an duplicates from old list that were not previously detected
+# Make multidimensional array of new list
+# --- Throw out any internal duplicates from new list
+# --- Throw out any external duplicates from new list (If MeSH ID already present on old list)
+# Combine both multidimensional arrays into one
+# Sort the resulting multidimensional array by name
+# Generate file en.yml based on resulting multidimensional array
+# Generate file tags.yml based on resulting multidimensional array
+
+# Depenencies
+#############################################
+# presence of existing_tags.yml with each line exactly 
+# formatted like > D016512: { list: false, note: "Ankle Injury" }
+# presence of new_tags.txt with each line exactly 
+# formatted like >  D000038, "Abscess" 
+# The matching of this pubnctuation is important as the script uses
+# the punctuation to extract the values.
+# inconsistent punctuation will generate unusable
+
+# Use
+#############################################
+# load existing_tags.yml with your current tags.yml from the kernel 
+# load new_tags.txt with yout proposed additions
+# from the terminal prompt run $ruby meshsort.rb then inspect the contents
+# of tags.yml and en.yml using sumbime text or other text app
+# cut and paste these into tags.yml and en.yml 
+# paying attention to the .yml format
+#############################################
+# To run script again
+# remember to clear the contents of tags.yml and en.yml before rerunning
+#############################################
+
+
+
 
 old_mesh_array = []
 new_mesh_array = []
@@ -81,19 +121,3 @@ File.open("tags.yml", "w") do |file|
   	}
 
 end
-
-########################################################################
-# JUNK CODE
-########################################################################
-# Place snippets here that you don't think are needed 
-# but that you might want to reactivate.
-########################
-# File.open('existing_tags.yml', 'w') do |out_file|
-########################
-# file.write(mesh_id)
-# file.write("---")
-# file.write(name) 
-# file.write("---")
-# file.write(list_boolean)    	
-# file.write("\n")  
-########################
