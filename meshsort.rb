@@ -4,7 +4,7 @@
 
 #!/usr/bin/env ruby
 
-# This script performs the folloing actions
+# This script performs the following actions
 #############################################
 # Make multidimensional array of old list
 # --- Throw out an duplicates from old list that were not previously detected
