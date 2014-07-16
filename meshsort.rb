@@ -104,8 +104,8 @@ end
 # Presence of new_tags.txt with each line exactly 
 # formatted like >  D000038, "Abscess" 
 # The matching of the above punctuation is important as the script
-# uses the punctuation to extract the values.
-# Inconsistent punctuation will generate unusable output
+# uses the punctuation to extract the correct values from each line.
+# Inconsistent punctuation will generate unusable output.
 
 # Use
 #############################################
@@ -113,8 +113,9 @@ end
 # Load new_tags.txt with yout proposed additions
 # From the terminal prompt run $ruby meshsort.rb then inspect the contents
 # of tags.yml and en.yml using sumbime text or other text app
-# Cut and paste these into tags.yml and en.yml 
-# paying attention to the .yml format
+# If you are the programmer cut and paste these into tags.yml and en.yml 
+# on the kernel and fire up the test server to test.
+# Paying attention to the .yml format
 # To run script again remember to clear the contents 
 # of tags.yml and en.yml
 #############################################
