@@ -115,7 +115,6 @@ end
 # of tags.yml and en.yml using sumbime text or other text app
 # If you are the programmer cut and paste these into tags.yml and en.yml 
 # on the kernel and fire up the test server to test.
-# Paying attention to the .yml format
 # To run script again remember to clear the contents 
 # of tags.yml and en.yml
 #############################################
