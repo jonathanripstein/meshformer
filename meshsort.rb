@@ -66,7 +66,7 @@ File.open("en.yml", "w") do |file|
 	combined_mesh_array = old_mesh_array + new_mesh_array
 
 	# sort the resulting multidimensional array based on name not ID
-	# add the "@" so that the variable is available outside of this block
+	# add "@" so that the variable is available outside of this block
 	@combined_mesh_array = combined_mesh_array.sort_by { |e| e[1] }
 
   # replicates format like >  D016512: "Ankle Injury"
