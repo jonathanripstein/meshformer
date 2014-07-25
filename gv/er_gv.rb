@@ -5,7 +5,7 @@
 # with external_resource information for the trekk site. It then creates 
 # an array to store the information and outputs a new .csv file with all 
 # the meshtags that were referenced. It uploads the current meshtags from 
-#existing_tags.yml and outputs tags from the file that are not currently in 
+# existing_tags.yml and outputs tags from the file that are not currently in 
 # use by trekk at new_mesh_array_terms.csv 
 
 # The first section of the program will upload an excel document.csv as an array 
